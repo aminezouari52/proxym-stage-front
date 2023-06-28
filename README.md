@@ -10,7 +10,7 @@ This is the frontend section of my end of studies project, wich is a trainee rec
 
 2. Modify the .env.dev file to your needs
 
-3. Run the backend server, you can find it here [Backend server](https://github.com/aminezouari52/proxym-trainee-recruitment-frontend)
+3. Run the backend server, you can find it here [Backend server](https://github.com/aminezouari52/proxym-trainee-recruitment-backend)
 
 4. Run the frontend server
 
@@ -50,20 +50,20 @@ This is the frontend section of my end of studies project, wich is a trainee rec
 
 ### Admin Dashboard
 
-![admin_dashboard](./screenshots/Visitor/admin_dashboard.png)
+![admin_dashboard](./screenshots/Admin/admin_dashboard.png)
 
 ### Candidates interface
 
-![candidates_Evaluate](./screenshots/Visitor/candidates_Evaluate.png)
+![candidates_Evaluate](./screenshots/Admin/candidates_Evaluate.png)
 
 ### Evaluate Candidate
 
-![Evaluate_Candidate](./screenshots/Visitor/Evaluate_Candidate.png)
+![Evaluate_Candidate](./screenshots/Admin/Evaluate_Candidate.png)
 
 ### Sessions interface
 
-![sessions_create](./screenshots/Visitor/sessions_create.png)
+![sessions_create](./screenshots/Admin/sessions_create.png)
 
 ### Projects interface
 
-![Sujet](./screenshots/Visitor/Sujet.png)
+![Sujet](./screenshots/Admin/Sujet.png)

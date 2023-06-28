@@ -1,0 +1,37 @@
+{
+  "common": {
+    "ok": "موافق",
+    "add": "إضافة",
+    "update": "تحديث",
+    "delete": "حذف",
+    "search": "يبحث",
+    "confirm": "موافقة",
+    "try_again": "حاول مرة أخرى",
+    "leave": "مغادرة",
+    "stay": "بقاء",
+    "submit": "نفذ",
+    "continue": "واصل",
+    "save_changes": "حفظ التغييرات",
+    "save_continue": "حفظ ومتابعة",
+    "save_close": "حفظ وإغلاق",
+    "cancel": "إلغاء",
+    "close": "أغلق",
+    "success": " تم الحفظ بنجاح",
+    "fail": " فشلت في الحفظ",
+    "calculate": "احسب",
+    "delete_confirmation": "تأكيد الحذف",
+    "go_back": "أرجع",
+    "back": "أرجع",
+    "no_data_found": "لاتوجد بيانات",
+    "save_as_draft": "حفظ كمسودة",
+    "save_address": "حفظ العنوان",
+    "submit_&_new": "نفذ وإصنع من جديد",
+    "select": "اختار",
+    "clear": "حذف",
+    "please_wait": "الرجاء الانتظار"
+  },
+  "errors": {
+    "wrong_credentials": "بيانات الاعتماد خاطئة! الرجاء إدخال اسم المستخدم وكلمة المرور الصحيحين",
+    "offline_token_expired": "انتهت فترة التسجيل، يرجى الاتصال بالمسؤول"
+  }
+}

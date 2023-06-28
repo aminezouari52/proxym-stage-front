@@ -1,0 +1,37 @@
+{
+  "common": {
+    "ok": "Ok",
+    "add": "Add",
+    "update": "Update",
+    "delete": "Delete",
+    "search": "Search",
+    "confirm": "Confirm",
+    "try_again": "Try again",
+    "leave": "Leave",
+    "stay": "Stay",
+    "submit": "Submit",
+    "continue": "Continue",
+    "save_changes": "Save Changes",
+    "save_continue": "Save & Continue",
+    "save_close": "Save & Close",
+    "cancel": "Cancel",
+    "close": "Close",
+    "success": "Saved successfully",
+    "fail": "Failed to save",
+    "calculate": "Calculate",
+    "delete_confirmation": "Delete Confirmation",
+    "go_back": "Go Back",
+    "back": "Back",
+    "no_data_found": "No data found",
+    "save_as_draft": "Save as draft",
+    "save_address": "Save address",
+    "submit_&_new": "Submit & New",
+    "select": "Select",
+    "clear": "Clear",
+    "please_wait": "Please wait"
+  },
+  "errors": {
+    "wrong_credentials": "Wrong credentials! Please enter correct username and password",
+    "offline_token_expired": "Session has expired, please contact your administrator."
+  }
+}

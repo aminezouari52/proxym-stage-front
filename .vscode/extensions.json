@@ -1,0 +1,19 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "aaron-bond.better-comments",
+    "ambar.bundle-size",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "dbaeumer.vscode-eslint",
+    "waderyan.gitblame",
+    "mhutchie.git-graph",
+    "vincaslt.highlight-matching-tag",
+    "kisstkondoros.vscode-gutter-preview",
+    "pkief.material-icon-theme",
+    "zhuangtongfa.material-theme",
+    "esbenp.prettier-vscode",
+    "simonsiefke.svg-preview",
+    "qwtel.sqlite-viewer"
+  ]
+}

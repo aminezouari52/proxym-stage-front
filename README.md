@@ -16,4 +16,54 @@ This is the frontend section of my end of studies project, wich is a trainee rec
 
    `yarn start:dev`
 
-5. Platform screenshots
+# Platform screenshots
+
+## Visitor
+
+### On Boarding
+
+![on-boarding](./screenshots/Visitor/on-boarding.png)
+
+### Login
+
+![login](./screenshots/Visitor/login.png)
+
+### Sign up
+
+![signup](./screenshots/Visitor/signup.png)
+
+## Candidate
+
+### Home Page
+
+![home-candidate](./screenshots/Candidate/home-page.png)
+![home-candidate](./screenshots/Candidate/home-page__interviewed.png)
+
+### Application Form
+
+![home-candidate](./screenshots/Candidate/application-form__career-info.png)
+![home-candidate](./screenshots/Candidate/application-form__projects.png)
+![home-candidate](./screenshots/Candidate/application-form__other-links.png)
+![home-candidate](./screenshots/Candidate/application-form__verify.png)
+
+## Admin
+
+### Admin Dashboard
+
+![admin_dashboard](./screenshots/Visitor/admin_dashboard.png)
+
+### Candidates interface
+
+![candidates_Evaluate](./screenshots/Visitor/candidates_Evaluate.png)
+
+### Evaluate Candidate
+
+![Evaluate_Candidate](./screenshots/Visitor/Evaluate_Candidate.png)
+
+### Sessions interface
+
+![sessions_create](./screenshots/Visitor/sessions_create.png)
+
+### Projects interface
+
+![Sujet](./screenshots/Visitor/Sujet.png)
